@@ -1,0 +1,7 @@
+E:\Programming\Projects\Multithreading\Multithreading\bin\Debug\Multithreading.exe.config
+E:\Programming\Projects\Multithreading\Multithreading\bin\Debug\Multithreading.exe
+E:\Programming\Projects\Multithreading\Multithreading\bin\Debug\Multithreading.pdb
+E:\Programming\Projects\Multithreading\Multithreading\obj\Debug\Multithreading.csprojResolveAssemblyReference.cache
+E:\Programming\Projects\Multithreading\Multithreading\obj\Debug\Multithreading.csproj.CoreCompileInputs.cache
+E:\Programming\Projects\Multithreading\Multithreading\obj\Debug\Multithreading.exe
+E:\Programming\Projects\Multithreading\Multithreading\obj\Debug\Multithreading.pdb
