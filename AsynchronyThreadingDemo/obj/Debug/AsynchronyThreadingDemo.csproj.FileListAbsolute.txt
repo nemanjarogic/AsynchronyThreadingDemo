@@ -1,7 +1,0 @@
-E:\Programming\Projects\AsynchronyThreadingDemo\AsynchronyThreadingDemo\bin\Debug\AsynchronyThreadingDemo.exe.config
-E:\Programming\Projects\AsynchronyThreadingDemo\AsynchronyThreadingDemo\bin\Debug\AsynchronyThreadingDemo.exe
-E:\Programming\Projects\AsynchronyThreadingDemo\AsynchronyThreadingDemo\bin\Debug\AsynchronyThreadingDemo.pdb
-E:\Programming\Projects\AsynchronyThreadingDemo\AsynchronyThreadingDemo\obj\Debug\AsynchronyThreadingDemo.csproj.CoreCompileInputs.cache
-E:\Programming\Projects\AsynchronyThreadingDemo\AsynchronyThreadingDemo\obj\Debug\AsynchronyThreadingDemo.exe
-E:\Programming\Projects\AsynchronyThreadingDemo\AsynchronyThreadingDemo\obj\Debug\AsynchronyThreadingDemo.pdb
-E:\Programming\Projects\AsynchronyThreadingDemo\AsynchronyThreadingDemo\obj\Debug\AsynchronyThreadingDemo.csprojResolveAssemblyReference.cache
