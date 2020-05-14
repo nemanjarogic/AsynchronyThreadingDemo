@@ -10,7 +10,7 @@ Some of covered topics are:
 - System.Threading.Tasks.Task
 - TaskCompletionSource
 - Asynchronous programming with 3 patterns:
-  - Asynchronous Programming Model (APM) pattern
+  - Asynchronous Programming Model Pattern (APM)
   - Event-based Asynchronous Pattern (EAP)
   - Task-based Asynchronous Pattern (TAP)
 - Understanding async / await
